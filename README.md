@@ -65,9 +65,9 @@ Telegram-бот для водителей. Он следит за геопози
 | Все остальные | ничего |
 
 
-![screenshots](screenshots/Screenshot_1 (2).png
+![screenshots](screenshots/Screenshot_1.png
 
-![screenshots](screenshots/Screenshot_3 (2).png
+![screenshots](screenshots/Screenshot_2.png
 ---
 
 ## Структура проекта
