@@ -75,7 +75,7 @@ ROUTE_ADDRESSES = [
 ADDRESS_OWNERS: dict[str, int | None] = {
     "Адрес 1": None,
     "Адрес 2": None,
-    "Адрес 3": ,
+    "Адрес 3": None ,
     "Адрес 4": None,
     "Адрес 5": None,
     "Адрес 6": None,
